@@ -4,7 +4,7 @@
 https://ericamonacillo.vercel.app
 
 <a href="https://github.com/erica-monacillo">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=50&color=6B7280&center=true&vCenter=true&width=400&lines=3rd-year+CS+student.;Aspiring+Software+Engineer.;Building+with+React+and+Django.;Loves+clean+and+simple+code.;Focused+on+real+projects.;Always+improving." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=50&color=6B7280&center=true&vCenter=true&width=400&lines=4th-year+CS+student.;Aspiring+Software+Engineer.;Building+with+React+and+Django.;Loves+clean+and+simple+code.;Focused+on+real+projects.;Always+improving." alt="Typing SVG" />
 </a>
 <br>
 
